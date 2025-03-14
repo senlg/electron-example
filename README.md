@@ -1,6 +1,6 @@
 # translater
 
-An Electron application with Vue and TypeScript
+An Electron application
 
 ## Recommended IDE Setup
 
